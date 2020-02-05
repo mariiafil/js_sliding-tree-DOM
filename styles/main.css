@@ -14,7 +14,7 @@ body {
 ul ul > li {
   display: none; }
 
-.displaied {
+.opened {
   display: block; }
 
 li:hover {
